@@ -132,6 +132,7 @@ input[type=email], input[type=password]{
   border:0;
   font-size: 1rem;
   background-color: #49d6b5;
+  cursor:pointer;
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
 }
